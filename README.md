@@ -1,5 +1,19 @@
-## Hi there 👋
+[UNDER CONSTRUCTTION]
 
+## Hey Hey! I'm William 👋
+---
+
+thecatalyst.app (closed source) Ritual Focus Engine (in pre-release demo)
+
+### Current Projects
+- PoeAstrology
+- bmad-module-td
+
+### Under Construction
+- Babysitter
+- astrology-oracle
+
+  
 <!--
 **wvanderen/wvanderen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
