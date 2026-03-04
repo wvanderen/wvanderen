@@ -9,7 +9,7 @@ When I'm not at the keyboard I'm probably breaking a roguelike, restarting a cha
 
 ### Released Projects
 - Catalyst (see below) - Ritual Focus Engine
-- [PoeAstrology](https://poe.com/PoeAstrology) - [Source code](https://github.com/wvanderen/poe-astrology-bot) - Simple natal chart calculator with rich UI, LLM analysis, personalization, and follow up question features.
+- [PoeAstrology](https://poe.com/PoeAstrology) - [Source code](https://github.com/wvanderen/poe-astrology-bot) - Simple natal chart calculator with rich UI, SVG astrology chart construction, LLM analysis, personalization, and follow up question features.
 
 ### Under Construction
 - [Babysitter](https://github.com/wvanderen/babysitter) - Babysitter is a workflow orchestration engine for AI coding agents. It keeps terminal sessions alive, sequences work across td issues, and intelligently guides development from one task to the next—enabling autonomous, multi-step development workflows that can run overnight or across multiple sessions.
