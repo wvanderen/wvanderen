@@ -1,9 +1,9 @@
 ## Hey I'm William (Liam) 👋
 ---
 
-Senior frontend engineer with 5+ years building performant, accessible web experiences — currently shipping features in a headless React PWA at Duluth Trading Co. I specialize in React and TypeScript but I'm comfortable across the stack, and I get a lot of satisfaction from the cross-functional side of the work: partnering with designers, unblocking teams, and mentoring other engineers.
+Senior frontend engineer with 5+ years building performant, accessible web experiences. I'm currently shipping features in a headless React PWA at Duluth Trading Co. I specialize in React and TypeScript but I'm comfortable across the stack, and I get a lot of satisfaction from the cross-functional side of the work: partnering with designers, unblocking teams, and mentoring other engineers.
 
-Lately I've been deep in the AI-assisted development space — exploring what modern tooling (and the workflows around it) actually unlocks for solo builders and teams. I'm learning Python with a focus on AI/ML, poking around in Go and Elixir, and building a TUI orchestration tool for AI coding workflows. Shipping more than ever and genuinely having a blast.
+Lately I've been deep in the AI-assisted development space and exploring what modern tooling (and the workflows around it) actually unlocks for solo builders and teams. I'm learning Python with a focus on AI/ML, poking around in Go and Elixir, and building a TUI orchestration tool for AI coding workflows. Shipping more than ever and genuinely having a blast.
 
 When I'm not at the keyboard I'm probably breaking a roguelike, restarting a chapter in Fire Emblem, or jamming on my synthesizer, usuallly being supervised by one of my three cats. 🐱
 
