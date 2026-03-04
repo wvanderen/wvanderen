@@ -13,9 +13,9 @@ When I'm not at the keyboard I'm probably breaking a roguelike, restarting a cha
 
 ### Under Construction
 - [Babysitter](https://github.com/wvanderen/babysitter) - Babysitter is a workflow orchestration engine for AI coding agents. It keeps terminal sessions alive, sequences work across td issues, and intelligently guides development from one task to the next—enabling autonomous, multi-step development workflows that can run overnight or across multiple sessions.
-- [bmad-module-td] (https://github.com/wvanderen/bmad-module-td) - A BMAD Method module for integrating with td CLI task management.
+- [bmad-module-td](https://github.com/wvanderen/bmad-module-td) - A BMAD Method module for integrating with td CLI task management.
   
-### [Catalyst](thecatalyst.app) (Private Repository)
+### [Catalyst](https://thecatalyst.app) (Private Repository)
 
 A production-oriented focus and session timer app built with a ritual-based UX to help users start, sustain, and complete deep-work sessions with less friction.
 
