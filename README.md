@@ -8,8 +8,8 @@ Lately I've been deep in the AI-assisted development space and exploring what mo
 When I'm not at the keyboard I'm probably breaking a roguelike, restarting a chapter in Fire Emblem, or jamming on my synthesizer, usuallly being supervised by one of my three cats. 🐱
 
 ### Released Projects
-- Catalyst (see below) - Ritual Focus Engine
-- [PoeAstrology](https://poe.com/PoeAstrology) - [Source code](https://github.com/wvanderen/poe-astrology-bot) - Simple natal chart calculator with rich UI, SVG astrology chart construction, LLM analysis, personalization, and follow up question features.
+- ✴️ Catalyst (see below) - Ritual Focus Engine
+- 🌠 [PoeAstrology](https://poe.com/PoeAstrology) - [Source code](https://github.com/wvanderen/poe-astrology-bot) - Simple natal chart calculator with rich UI, SVG astrology chart construction, LLM analysis, personalization, and follow up question features.
 
 ### Under Construction
 - 🦦 [Otto](https://github.com/wvanderen/otto-mono) - Otto is the Pi-native operating layer for BMAD + td execution. An automation loop that turns BMAD workflows, td state, and validation evidence into a tighter closed-loop delivery system.
