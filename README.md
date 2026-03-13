@@ -12,7 +12,7 @@ When I'm not at the keyboard I'm probably breaking a roguelike, restarting a cha
 - 🌠 [PoeAstrology](https://poe.com/PoeAstrology) - [Source code](https://github.com/wvanderen/poe-astrology-bot) - Simple natal chart calculator with rich UI, SVG astrology chart construction, LLM analysis, personalization, and follow up question features.
 
 ### Under Construction
-- 🦦 [Otto](https://github.com/wvanderen/otto-mono) - Otto is the Pi-native operating layer for BMAD + td execution. An automation loop that turns BMAD workflows, td state, and validation evidence into a tighter closed-loop delivery system.
+- 🦦 [Otto](https://github.com/wvanderen/otto-mono/tree/main/packages/otto) - Otto is the Pi-native operating layer for BMAD + td execution. An automation loop that turns BMAD workflows, td state, and validation evidence into a tighter closed-loop delivery system.
 - 🎛️ [mindrave](https://github.com/wvanderen/mindrave) -  MINDRAVE is a terminal-native co-creative music environment where humans direct AI agents through natural language, gesture, and macro control to collaboratively create and perform music in real time. Pi Extension with Integrated SuperCollider Runtime. 
   
 ### [Catalyst](https://thecatalyst.app) (Private Repository)
